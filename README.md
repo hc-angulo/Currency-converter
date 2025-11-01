@@ -1,6 +1,6 @@
 # 💱 Conversor de Monedas
 
-### 🧠 Descripción  
+## 🧠 Descripción  
 Este proyecto fue desarrollado con el objetivo de **aprender a consumir APIs externas**, **manipular datos en formato JSON** y **realizar conversiones entre diferentes monedas** utilizando **Java**.  
 
 A través de este desafío, se pone en práctica el uso de **HttpClient**, **HttpRequest**, **HttpResponse** y la biblioteca **Gson** para procesar datos JSON provenientes de una API de tasas de cambio.  
