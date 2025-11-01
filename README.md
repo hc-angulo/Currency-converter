@@ -100,7 +100,7 @@ Resultado: 100 USD = 92.45 EUR
 
 ## 🚀 Tecnologías utilizadas
 
--Java SE 11+
+- Java SE 11+
 - Gson (Google JSON library)
 - Exchange Rate API
 - IntelliJ IDEA (opcional)
