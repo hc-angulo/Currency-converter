@@ -34,7 +34,7 @@ El proyecto utiliza una **API de tasas de cambio** para obtener datos actualizad
 
 1. Abrir proyecto en IntelliJ.  
 2. Hacer clic derecho sobre la carpeta del proyecto → **Open Module Settings**.  
-3. Ver a la pestaña **Dependencies**.  
+3. Ir a la pestaña **Dependencies**.  
 4. Hacer clic en **“+” → Library → From Maven**.  
 5. Buscar `gson` y seleccionar la versión deseada (≥ 2.10.1).  
 6. Presionar **OK** para aplicar los cambios.  
